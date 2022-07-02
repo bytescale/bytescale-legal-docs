@@ -121,7 +121,7 @@ We only share and disclose your information with the following third parties. We
 
 **_In Short: _** _ We may use cookies and other tracking technologies to collect and store your information._
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
 
 ### 6. Is your information transferred internationally?
 
@@ -367,11 +367,12 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at privacy@upload.io or by post to:
 
-Upload Ltd  
-Level 33  
-25 Canada Square  
-London, England E14 5LB  
-United Kingdom  
+Upload Ltd
+1 Canada Square, 37th Floor,
+London, 
+England,
+E14 5AA,
+United Kingdom
 
 ### 15. How can you review, update, or delete the data we collect from you?
 

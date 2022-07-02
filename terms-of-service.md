@@ -42,7 +42,7 @@ When you respond to Upload emails or surveys we collect your email address, name
 
 We also may collect information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services. We use Google Analytics and HubSpot in our Services to help us analyze your use of the Services and diagnose technical issues.
 
-To learn more about the cookies that may be served through our Services and how you can control our use of cookies and third-party analytics, please see our Privacy Policy.
+To learn more about the cookies that may be served through our Services and how you can control our use of cookies and third-party analytics, please see our Cookie Policy.
 
 ### 4. Service Fees
 
