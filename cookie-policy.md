@@ -13,9 +13,9 @@ Cookies set by the website owner (in this case, Upload Ltd) are called "first pa
 
 ## Why do we use cookies?
 
-We use first and third party cookies for several reasons. Some cookies are required for technical reasons in order for our Websites to operate, and we refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable us to track and target the interests of our users to enhance the experience on our Online Properties. Third parties serve cookies through our Websites for advertising, analytics and other purposes. This is described in more detail below.
+We use first and third party cookies for several reasons. Some cookies are required for technical reasons in order for our Websites to operate, and we refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable us to track and target the interests of our users to enhance the experience on our Websites. Third parties serve cookies through our Websites for advertising, analytics and other purposes. This is described in more detail below.
 
-The specific types of first and third party cookies served through our Websites and the purposes they perform are described below (please note that the specific cookies served may vary depending on the specific Online Properties you visit):
+The specific types of first and third party cookies served through our Websites and the purposes they perform are described below (please note that the specific cookies served may vary depending on the specific Websites you visit):
 
 ## How can I control cookies?
 
@@ -23,7 +23,7 @@ You have the right to decide whether to accept cookies by continuing to use our 
 
 You may alternatively choose to use our Websites while blocking cookies using advanced features within your browser. Please note, however, that our Websites are not supported to work in this way, and may appear broken in places (including our sign in and sign up pages).
 
-The specific types of first and third party cookies served through our Websites and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Online Properties you visit).
+The specific types of first and third party cookies served through our Websites and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Websites you visit).
 
 In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com.
 
