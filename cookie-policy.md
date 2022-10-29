@@ -25,7 +25,7 @@ You may alternatively choose to use our Websites while blocking cookies using ad
 
 The specific types of first and third party cookies served through our Websites and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Websites you visit).
 
-In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com.
+In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit https://optout.aboutads.info/ or https://www.youronlinechoices.com/.
 
 ### Website cookies:
 
