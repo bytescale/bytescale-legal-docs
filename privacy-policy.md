@@ -39,7 +39,7 @@ The personal information that we collect depends on the context of your interact
 
 **Personal Information Provided by You.** We collect names; email addresses; usernames; passwords; contact preferences; debit/credit card numbers; contact or authentication data; billing addresses; and other similar information.
 
-**Payment Data.** We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by Stripe. You may find their privacy notice link(s) here: [https://stripe.com/privacy](https://stripe.com/privacy) .
+**Payment Data.** We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by Paddle. You may find their privacy notice link(s) here: https://www.paddle.com/legal/privacy.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
@@ -112,9 +112,9 @@ More specifically, we may need to process your data or share your personal infor
 
 We only share and disclose your information with the following third parties. We have categorized each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled " [How can you contact us about this notice?](#contact) ".
 
-*   **Communicate and Chat with Users:** Intercom.
-*   **Invoice and Billing:** Stripe.
-*   **Web and Mobile Analytics:** Google Analytics and HubSpot Analytics.
+*   **Communicate and Chat with Users:** HelpScout.
+*   **Invoice and Billing:** Paddle.
+*   **Web and Mobile Analytics:** Google Analytics, HubSpot Analytics, and PostHog.
 *   **Website Performance Monitoring:** Sentry.
 
 ### 5. Do we use cookies and other tracking technologies?
