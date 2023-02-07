@@ -259,7 +259,7 @@ H. Audio, electronic, visual, thermal, olfactory, or similar information
 
 Images and audio, video or call recordings created in connection with our business activities
 
-NO
+YES
 
 I. Professional or employment-related information
 
