@@ -1,7 +1,7 @@
 Cookie Policy
 -------------
 
-This Cookie Policy explains how Upload Ltd ("Company", "we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our websites at https://upload.io, ("Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Policy explains how Bytescale Ltd ("Company", "we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our websites at https://www.bytescale.com, ("Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
 In some cases we may use cookies to collect personal information, or that becomes personal information if we combine it with other information.
 
@@ -9,7 +9,7 @@ In some cases we may use cookies to collect personal information, or that become
 
 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
 
-Cookies set by the website owner (in this case, Upload Ltd) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+Cookies set by the website owner (in this case, Bytescale Ltd) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
 
 ## Why do we use cookies?
 
@@ -32,33 +32,57 @@ In addition, most advertising networks offer you a way to opt out of targeted ad
 These cookies are necessary to provide you with services available through our Websites, and for the continued improvement of these services:
 
 -  Name: __hssc, __hssrc, __hstc, hubspotutk
-   Domain: .upload.io
+   Domain: .bytescale.com
    Purpose: Marketing and analytics
    Vendor: HubSpot.com (Third Party)
 -  Name: _ga, _ga_*
-   Domain: .upload.io
+   Domain: .bytescale.com
    Purpose: Collects information about how visitors use our sites
    Vendor: Google Analytics (Third Party)
 -  Name: _gcl_au
-   Domain: .upload.io
+   Domain: .bytescale.com
    Purpose: Tracks conversions from Google Ads campaigns
    Vendor: Google Ads (Third Party)
 -  Name: paddlejs_campaign_referrer
-   Domain: upload.io
+   Domain: bytescale.com
    Purpose: Used by our payment processor
    Vendor: Paddle.com (Third Party)
 -  Name: ph_phc_*
-   Domain: .upload.io
+   Domain: .bytescale.com
    Purpose: Collects information about how visitors use our sites
    Vendor: PostHog.com (Third Party)
--  Name: upload-io-initial-landing-page
-   Domain: .upload.io
+-  Name: bytescale-initial-landing-page
+   Domain: .bytescale.com
    Purpose: Allows us to customize your experience based on how you first found our website
-   Vendor: Upload.io (First Party)
--  Name: upload-io-returning-visitor
-   Domain: .upload.io
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-returning-visitor
+   Domain: .bytescale.com
    Purpose: Analytics
-   Vendor: Upload.io (First Party)
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-closed-banner
+   Domain: .bytescale.com
+   Purpose: Remembers if you have closed the announcement banner
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-closed-cookie-notice
+   Domain: .bytescale.com
+   Purpose: Remembers if you have closed the cookie notice
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-prog-lang
+   Domain: .bytescale.com
+   Purpose: Saves your preferred programming language when switching our code examples
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-js-sdk
+   Domain: .bytescale.com
+   Purpose: Saves your preferred version of the Bytescale JS SDK when navigating our documentation
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-current-account-id
+   Domain: .bytescale.com
+   Purpose: Used when switching between accounts in the Bytescale Dashboard (for users who have access to multiple Bytescale accounts)
+   Vendor: Bytescale (First Party)
+-  Name: bytescale-jwt
+   Domain: .bytescale.com
+   Purpose: Used to authenticate signed-in users in the Bytescale Dashboard
+   Vendor: Bytescale (First Party)
 
 
 ## What about other tracking technologies, like web beacons?
@@ -79,9 +103,9 @@ The date at the top of this Cookie Policy indicates when it was last updated.
 
 ## Where can I get further information?
  
-If you have any questions about our use of cookies or other technologies, please email us at hello@upload.io or by post to:
+If you have any questions about our use of cookies or other technologies, please email us at hello@bytescale.com or by post to:
 
-Upload Ltd
+Bytescale Ltd
 1 Canada Square, 37th Floor,
 London, 
 England,

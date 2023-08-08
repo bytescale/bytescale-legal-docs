@@ -5,11 +5,11 @@ This Service Level Agreement (SLA) formally guarantees at least 99.9% Uptime.
 
 "Uptime" is the percentage of minutes in a Subscription Month that are not Downtime.
 
-"Downtime" is a full minute of time where the Upload Dashboard, Upload API, or Upload CDN (the "Services") were unavailable for a reason that is not listed in the Exclusions.
+"Downtime" is a full minute of time where the Bytescale Dashboard, Bytescale API, or Bytescale CDN (the "Services") were unavailable for a reason that is not listed in the Exclusions.
 
-"Subscription Month" is a month aligned with the customer's billing cycle with Upload.
+"Subscription Month" is a month aligned with the customer's billing cycle with Bytescale.
 
-"Scheduled Maintenance" means Upload's scheduled routine maintenance of the Services for which Upload notifies you at least seventy two (72) hours in advance. Scheduled Maintenance will not exceed eight (8) hours per month.
+"Scheduled Maintenance" means Bytescale's scheduled routine maintenance of the Services for which Bytescale notifies you at least seventy two (72) hours in advance. Scheduled Maintenance will not exceed eight (8) hours per month.
 
 "Account Credit" is defined as a non-transferable discount applied to the next billing cycle.
 
@@ -23,8 +23,8 @@ In the event of less than 99.0% Uptime for a given Subscription Month, the custo
 
 The calculation of Downtime will not include unavailability to the extent due to:
 
-- Use of the Services by the customer in a manner not authorized in the Upload Terms & Conditions or the applicable documentation;
-- General Internet problems, force majeure events or other factors outside of Upload's reasonable control;
+- Use of the Services by the customer in a manner not authorized in the Bytescale Terms & Conditions or the applicable documentation;
+- General Internet problems, force majeure events or other factors outside of Bytescale's reasonable control;
 - The customer's or the customer's end users' equipment, software, network connections or other infrastructure;
 - Amazon Web Services (AWS) outages verified by Amazon (verified AWS outages are reported here: https://health.aws.amazon.com/);
 - Scheduled Maintenance.

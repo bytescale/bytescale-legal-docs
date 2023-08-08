@@ -1,9 +1,9 @@
 Privacy Policy
 --------------
 
-Thank you for choosing to be part of our community at Upload Ltd, doing business as Upload (" **Upload**", "**we**", "**us**", "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at hello@upload.io.
+Thank you for choosing to be part of our community at Bytescale Ltd, doing business as Bytescale (" **Bytescale**", "**we**", "**us**", "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at hello@bytescale.com.
 
-When you visit our website upload.io (the "**Website**"), and more generally, use any of our services (the "**Services**", which include the Website), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
+When you visit our website bytescale.com (the "**Website**"), and more generally, use any of our services (the "**Services**", which include the Website), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
 This privacy notice applies to all information collected through our Services (which, as described above, includes our Website), as well as, any related services, sales, marketing or events.
 
@@ -73,7 +73,7 @@ We use personal information collected via our Website for a variety of business 
 We use the information we collect or receive:
 
 *   **To facilitate account creation and logon process.** If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.
-*   **To post testimonials.** We post testimonials on our Website that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at privacy@upload.io and be sure to include your name, testimonial location, and contact information.
+*   **To post testimonials.** We post testimonials on our Website that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at privacy@bytescale.com and be sure to include your name, testimonial location, and contact information.
 *   **Request feedback.** We may use your information to request feedback and to contact you about your use of our Website.
 *   **To enable user-to-user communications.** We may use your information in order to enable user-to-user communications with each user's consent.
 *   **To manage user accounts.** We may use your information for the purposes of managing our account and keeping it in working order.
@@ -153,7 +153,7 @@ We have implemented appropriate technical and organizational security measures d
 
 **_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@upload.io.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@bytescale.com.
 
 ### 10. What are your privacy rights?
 
@@ -167,7 +167,7 @@ If you are a resident in the European Economic Area and you believe we are unlaw
 
 If you are a resident in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html) .
 
-If you have questions or comments about your privacy rights, you may email us at privacy@upload.io.
+If you have questions or comments about your privacy rights, you may email us at privacy@bytescale.com.
 
 #### Account Information
 
@@ -287,14 +287,14 @@ We may also collect other personal information outside of these categories insta
 
 #### How do we use and share your personal information?
 
-Upload Ltd collects and shares your personal information through:
+Bytescale Ltd collects and shares your personal information through:
 
 *   Tracking cookies / Website analytics cookies
 *   Targeting cookies / Marketing cookies
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at privacy@upload.io, or by referring to the contact details at the bottom of this document.
+You may contact us by email at privacy@bytescale.com, or by referring to the contact details at the bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt-out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -306,7 +306,7 @@ The current list of our service providers can be found in below.
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal data.
 
-Upload Ltd has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:
+Bytescale Ltd has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:
 
 *   Category A. Identifiers, such as contact details, like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name.
 *   Category B. Personal information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history and financial information.
@@ -355,7 +355,7 @@ Other privacy rights
 *   you can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 *   you may request to opt-out from future selling of your personal information to third parties. Upon receiving a request to opt-out, we will act upon the request as soon as feasibly possible, but no later than 15 days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at privacy@upload.io, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at privacy@bytescale.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 ### 13. Do we make updates to this notice?
 
@@ -365,9 +365,9 @@ We may update this privacy notice from time to time. The updated version will be
 
 ### 14. How can you contact us about this notice?
 
-If you have questions or comments about this notice, you may email us at privacy@upload.io or by post to:
+If you have questions or comments about this notice, you may email us at privacy@bytescale.com or by post to:
 
-Upload Ltd
+Bytescale Ltd
 1 Canada Square, 37th Floor,
 London, 
 England,
@@ -376,4 +376,4 @@ United Kingdom
 
 ### 15. How can you review, update, or delete the data we collect from you?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: privacy@upload.io. We will respond to your request within 30 days.
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: privacy@bytescale.com. We will respond to your request within 30 days.
