@@ -1,9 +1,9 @@
-Welcome to Bytescale
---------------------
+Terms of Service
+----------------
 
 Subject to these Terms of Service (this "Agreement"), Bytescale Ltd ("Bytescale", "we", "us" and/or "our") provides access to Bytescale's cloud platform as a service, including, without limitation, Bytescale's CDN, APIs, SDKs, website, and web applications (collectively, the "Services"). By using or accessing the Services, you acknowledge that you have read, understand, and agree to be bound by this Agreement.
 
-If you are entering into this Agreement on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the term "you" shall refer to such entity. If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and may not use the Services and must terminate any Bytescale account(s) you have created.
+If you are entering into this Agreement on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the term "you" shall refer to such entity. If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and may not use the Services.
 
 IMPORTANT: THIS AGREEMENT IS SUBJECT TO MANDATORY BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 12. PLEASE READ THE AGREEMENT CAREFULLY.
 
