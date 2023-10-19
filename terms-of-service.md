@@ -5,7 +5,7 @@ Subject to these Terms of Service (this "Agreement"), Bytescale Ltd ("Bytescale"
 
 If you are entering into this Agreement on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the term "you" shall refer to such entity. If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and may not use the Services.
 
-IMPORTANT: THIS AGREEMENT IS SUBJECT TO MANDATORY BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 12. PLEASE READ THE AGREEMENT CAREFULLY.
+IMPORTANT: THIS AGREEMENT IS SUBJECT TO MANDATORY BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 12. PLEASE READ THIS AGREEMENT CAREFULLY.
 
 Bytescale may modify these Terms of Service from time to time, and will post a notice about such changes to the Terms of Service on Bytescale’s website, and may send you a notice by email before the changes take effect. You may write to Bytescale to reject the amended Terms of Service if the amendments adversely affect you, and if Bytescale does not agree to make an exemption for you, will terminate your account (see "Account Termination"). By continuing to use the Services after the new changes have taken effect, you indicate your agreement to the amended Terms of Service.
 
