@@ -21,7 +21,7 @@ You may not use, or encourage, or facilitate or instruct others to use the Servi
 
 - Activities that are illegal or violate the rights of others, or that may be harmful to others, Bytescale's operations or reputation, including disseminating, promoting or facilitating child pornography, offering or disseminating fraudulent services, goods, schemes or promotions.
 - Uploading, generating or making available content that infringes or misappropriates the intellectual property rights of others.
-- Uploading, generating or making available content that is defamatory, obscene, abusive, invasive of privacy or objectionable, including content that constitutes or depicts child pornography, bestiality or non-consensual sexual acts.
+- Uploading, generating or making available content that is defamatory, obscene, blasphemous, abusive, invasive of privacy or objectionable, including content that constitutes or depicts child pornography, bestiality or non-consensual sexual acts.
 - Uploading, generating or making available content that may damage, interfere with, intercept or expropriate any system, program or data, including viruses, Trojan horses, worms, or other malware.
 
 In addition:
@@ -87,7 +87,7 @@ You represent and warrant that you are not prohibited from receiving the Service
 
 ## 9. Indemnification
 
-You agree to indemnify, defend and hold harmless Bytescale, its subsidiaries, affiliates, partners, officers, directors, employees, agents, and contractors, licensors, and suppliers from and against any and all claims, costs, demands, damages, liabilities, or expenses, including, without limitation, reasonable attorneys' fees, arising from or related to: (a) your access to or use of the Services, (b) your User Content, including infringement or misappropriation claims related to your User Content, (c) your breach of this Agreement or any applicable law or regulation, (d) any actual, prospective, completed or terminated service between you and a third party, or (e) your negligence or intentional misconduct. You will reimburse us for reasonable attorneys’ fees and expenses, and will pay the amount of any adverse final judgment or settlement associated with the claims described above.
+You agree to indemnify, defend and hold harmless Bytescale, its subsidiaries, affiliates, partners, officers, directors, employees, agents, and contractors, licensors, and suppliers from and against any and all claims, costs, demands, damages, liabilities, or expenses, including, without limitation, reasonable attorneys' fees, arising from or related to: (a) your access to or use of the Services, (b) your access to or use of any content or software available through the Services (c) your User Content, including infringement or misappropriation claims related to your User Content, (d) your breach of this Agreement or any applicable law or regulation, (e) any actual, prospective, completed or terminated service between you and a third party, or (f) your negligence or intentional misconduct. You will reimburse us for reasonable attorneys’ fees and expenses, and will pay the amount of any adverse final judgment or settlement associated with the claims described above.
 
 ## 10. Warranty Disclaimer
 
