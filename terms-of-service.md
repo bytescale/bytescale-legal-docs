@@ -1,11 +1,14 @@
-Terms of Service
-----------------
+Bytescale Terms of Service
+--------------------------
+Effective date: February 3 2026 ([view archived versions](https://github.com/bytescale/bytescale-legal-docs/commits/main/terms-of-service.md))
+
+## Welcome to Bytescale
 
 Subject to these Terms of Service (this "Agreement"), Bytescale Ltd ("Bytescale", "we", "us" and/or "our") provides access to Bytescale's cloud platform as a service, including, without limitation, Bytescale's CDN, APIs, SDKs, website, and web applications (collectively, the "Services"). By using or accessing the Services, you acknowledge that you have read, understand, and agree to be bound by this Agreement.
 
 If you are entering into this Agreement on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the term "you" shall refer to such entity. If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and may not use the Services.
 
-IMPORTANT: THIS AGREEMENT IS SUBJECT TO MANDATORY BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 12. PLEASE READ THIS AGREEMENT CAREFULLY.
+**IMPORTANT:** THIS AGREEMENT IS SUBJECT TO MANDATORY BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13. PLEASE READ THIS AGREEMENT CAREFULLY.
 
 Bytescale may modify these Terms of Service from time to time, and will post a notice about such changes to the Terms of Service on Bytescale’s website, and may send you a notice by email before the changes take effect. You may write to Bytescale to reject the amended Terms of Service if the amendments adversely affect you, and if Bytescale does not agree to make an exemption for you, will terminate your account (see "Account Termination"). By continuing to use the Services after the new changes have taken effect, you indicate your agreement to the amended Terms of Service.
 
@@ -73,7 +76,7 @@ Bytescale's Privacy Policy explains how we treat your personal data and protect 
 
 We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act.
 
-If you think somebody is violating your copyrights and want to notify us, please [contact us](https://www.bytescale.com/contact).
+If you think somebody is violating your copyrights and want to notify us, please [contact us](https://www.bytescale.com/support).
 
 ## 7. Intellectual Property
 
@@ -85,11 +88,19 @@ You consent to Bytescale’s use of your company name and logo and description o
 
 You represent and warrant that you are not prohibited from receiving the Services by the laws of any jurisdiction and will comply with all applicable export control laws, regulations, and trade sanctions, including those emitted by the United Nation Security Counsil (UNSC), the US Government, the European Union or its Member States, the UK Government, the Government of Canada, and the Government of Australia. You further represent and warrant that these laws may prohibit us from providing the Services to you without notice.
 
-## 9. Indemnification
+## 9. Media Processing, Codecs, and Patent Claims
 
-You agree to indemnify, defend and hold harmless Bytescale, its subsidiaries, affiliates, partners, officers, directors, employees, agents, and contractors, licensors, and suppliers from and against any and all claims, costs, demands, damages, liabilities, or expenses, including, without limitation, reasonable attorneys' fees, arising from or related to: (a) your access to or use of the Services, (b) your access to or use of any content or software available through the Services (c) your User Content, including infringement or misappropriation claims related to your User Content, (d) your breach of this Agreement or any applicable law or regulation, (e) any actual, prospective, completed or terminated service between you and a third party, or (f) your negligence or intentional misconduct. You will reimburse us for reasonable attorneys’ fees and expenses, and will pay the amount of any adverse final judgment or settlement associated with the claims described above.
+The Services may allow you to upload, store, process, encode, decode, transcode, transform, or stream audio, video, or image content. You are solely responsible for selecting the codecs, formats, and settings you use, and for obtaining all licenses, permissions, consents, and other rights necessary for your content and your use of the Services, including any patent, copyright, or other intellectual property rights related to audio, video, or image technologies.
 
-## 10. Warranty Disclaimer
+Bytescale does not grant any rights or licenses to you under any patents or other intellectual property that may be necessary for audio, video, or image processing. Bytescale has no obligation to defend, indemnify, or pay for any third-party claim arising from or related to audio, video, or image encoding, decoding, transcoding, streaming, or transformation, whether such claim alleges patent infringement or otherwise.
+
+If you use third-party services or software in connection with media processing (including, without limitation, cloud media services, codecs, and open-source libraries), you are responsible for compliance with their terms and for any third-party claims arising from your use of those services or software.
+
+## 10. Indemnification
+
+You agree to indemnify, defend and hold harmless Bytescale, its subsidiaries, affiliates, partners, officers, directors, employees, agents, and contractors, licensors, and suppliers from and against any and all claims, costs, demands, damages, liabilities, or expenses, including, without limitation, reasonable attorneys' fees, arising from or related to: (a) your access to or use of the Services, (b) your access to or use of any content or software available through the Services (c) your User Content, including infringement or misappropriation claims related to your User Content, (d) your breach of this Agreement or any applicable law or regulation, (e) any actual, prospective, completed or terminated service between you and a third party, (f) any claim that your video, audio, or image processing (including encoding, decoding, transcoding, or streaming) infringes or misappropriates any third-party intellectual property right, or (g) your negligence or intentional misconduct. You will reimburse us for reasonable attorneys’ fees and expenses, and will pay the amount of any adverse final judgment or settlement associated with the claims described above.
+
+## 11. Warranty Disclaimer
 
 Bytescale protects the data it collects with reasonable and appropriate physical, electronic, and procedural safeguards. We use reasonable security measures that are designed to protect data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any collected data or other information:
 
@@ -97,7 +108,7 @@ The Services are provided on an “as is” and “as available” basis. To the
 
 Without limiting the foregoing, Bytescale, its processors, its providers, its licensors (and their respective subsidiaries, affiliates, agents, directors, and employees) do not warrant that (i) the Services will be secure or available at any particular time or location; (ii) any defects or errors will be corrected; (iii) any content or software available at or through the Services is free of viruses or other harmful components; (iv) that the content will be secure or not otherwise lost or damaged; (v) that the Services will not harm your computer system; or (vi) the results of using the Services will meet your requirements. Your use of the Services is solely at your own risk. We do not have any obligation to verify the identity of users subscribing to our services, nor do we have any obligation to monitor the use of the Services by users. Therefore, we disclaim all liability for identity theft or any other misuse of your identity or information.
 
-## 11. Limitation of Liability
+## 12. Limitation of Liability
 
 Bytescale and our affiliates, directors, officers, stockholders, employees, licensors, suppliers, and agents will not be liable for any lost profits, data loss, cost of procurement of substitute goods or services, or special, indirect, incidental, punitive, compensatory or consequential damages of any kind whatsoever (including without limitation damages for lost profits, revenue, goodwill, use or content) (however arising), even if we had been advised as to the possibility of such damages, resulting from: (a) your use of the Services or inability to use the Services, (b) your access to or inability to access the Services, (c) the conduct or content of other users or third parties on or through the Services, (d) unauthorized access, use, or alteration of User Content, or (e) bugs, errors, viruses, trojan horses, or the like (regardless of the source of origination). In no event will Bytescale or our affiliates’ aggregate liability for all claims relating to the Services exceed the greater of (a) $100.00 USD or (b) the amount you paid Bytescale in the last 3 months for any Services.
 
@@ -105,28 +116,28 @@ These limitations and exclusions in this section (Limitation of Liability) apply
 
 These Terms of Service set forth the entire liability of Bytescale and its affiliates as well as your exclusive remedy with respect to access and use of the Services.
 
-## 12. Binding Arbitration and Class Action Waiver
+## 13. Binding Arbitration and Class Action Waiver
 
-### 12.1 Binding Arbitration
+### 13.1 Binding Arbitration
 
 You and Bytescale agree that any dispute, claim or controversy relating in any way to this Agreement, the Services, your use of the Services, User Content, or to any products or services licensed or distributed by us will be finally settled through binding arbitration under the [LCIA Arbitration Rules](https://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx), which are incorporated by reference into this clause. There will be one arbitrator (to be appointed by the LCIA), the arbitration will take place in London and the arbitration will be conducted in English. If you do not wish to agree to this clause, you must not use the Services.
 
-### 12.2 Class Action Waiver
+### 13.2 Class Action Waiver
 
 You agree that you are waiving the right to trial by jury or to participate in a class action and that you may bring claims against Bytescale only in your individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding. Any arbitration or other action will take place on an individual basis; class arbitrations and class actions are not permitted.
 
-### 12.3 No Opt Out Rights
+### 13.3 No Opt Out Rights
 
-You do not have the right to opt out of Section 12. Rather, your sole remedy if you do not accept this Agreement is to stop using the Services and to terminate your account.
+You do not have the right to opt out of Section 13. Rather, your sole remedy if you do not accept this Agreement is to stop using the Services and to terminate your account.
 
-## 13. Exclusive Venue
+## 14. Exclusive Venue
 
 To the extent that this Agreement allows you or Bytescale to initiate litigation in a court, both you and Bytescale agree that all claims and disputes (whether contractual or otherwise) arising out of or relating to this Agreement or the use of the Services will be litigated exclusively in the courts of England in the United Kingdom, unless this is prohibited by the laws of the country where you reside. You and Bytescale consent to the exclusive jurisdiction of those courts.
 
-## 14. Choice of Law
+## 15. Choice of Law
 
 The laws of England and Wales govern this Agreement and any claims and disputes (whether contract, tort, or otherwise) arising out of or relating to this Agreement or its subject matter. The courts in some countries may not apply the laws of England and Wales to some disputes related to this Agreement. If you reside in one of those countries, the laws of your home country may apply to those disputes.
 
-## 15. Severability
+## 16. Severability
 
 If any provision of this Agreement is found unenforceable, then that provision will be removed from the Agreement and not affect the validity and enforceability of any remaining provisions.
