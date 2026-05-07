@@ -252,6 +252,7 @@ Where You are the Data Exporter, the supervisory authority shall be the competen
 | Help Scout PBC                                               | Customer support services                                    | Ongoing    |
 | HubSpot, Inc.                                                | Customer relationship management (CRM)                       | Ongoing    |
 | Linear Orbit, Inc.                                           | Project management                                           | Ongoing    |
+| OpenAI, L.L.C.                                               | Artificial intelligence services                             | Ongoing    |
 | Paddle Payments Limited, paddle.com Inc. and Paddle.com Market Limited | Payment infrastructure                             | Ongoing    |
 | PostHog, Inc.                                                | Analytics platform                                           | Ongoing    |
 | Slack Technologies Limited and Slack Technologies, LLC       | Internal and external communication                          | Ongoing    |
